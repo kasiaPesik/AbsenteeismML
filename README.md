@@ -27,6 +27,7 @@ Zestaw danych został dostosowany do kolejności kolumn w poniższy sposób:
 Głównym celem analizy było zrozumienie czynników wpływających na nieobecności pracowników. W tym celu zastosowano modele regresji liniowej, drzewa decyzyjnego i lasu losowego. Okazało się, że model lasu losowego był najskuteczniejszy w przewidywaniu nieobecności pracowników.
 
 ### Aplikacja Przewidywania Obecności Pracowników
+![image](https://github.com/kasiaPesik/AbsenteeismML/assets/127053233/bcde676a-425d-4148-a8e8-9b5d249490b7)
 
 Na podstawie analizy danych stworzono aplikację, która umożliwia prognozowanie obecności pracownika na podstawie wprowadzonych danych. Wykorzystano model lasu losowego, który wykazał się wysoką skutecznością w przewidywaniach.
 
