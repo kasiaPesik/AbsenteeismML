@@ -50,12 +50,12 @@ def make_predictions():
         if predictions == 0:
             tkinter.messagebox.showinfo(
                 title="Prediction",
-                message=f"Results is: {predictions}. Excessively absent",
+                message=f"Results is: {predictions}. Moderately absent",
             )
         else:
             tkinter.messagebox.showinfo(
                 title="Prediction",
-                message=f"Results is: {predictions}. Moderately absent ",
+                message=f"Results is: {predictions}. Excessively absent ",
             )
 
     except Exception as e:
